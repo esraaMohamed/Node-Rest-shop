@@ -1,2 +1,2 @@
 # Node-Rest-shop
-RESTful API s built with NodeJS
+RESTful APIs built with NodeJS
